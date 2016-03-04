@@ -87,7 +87,7 @@ Every card in "To-Do" has a title and a detailed explanation of what they meant 
 While testing prototype 2.0, not many new issues were brought up. The one new issue that made users feel uncomfortable pertained to privacy issues. People were unsure if hitting the "Share Case" button would automatically share their entire case to their neighbors or if it let them select the cases they want to share. Prototype 2.0 is actually the latter, but when it comes to sharing sensitive information we wanted to eliminate as much hesitation as possible so we changed the flow. We made the option to select the cases you'd like to share immediately visible first, and then enabled users to share what they have selected with a button clearly indicating that the selected content is being shared with users.
 <p>
 <center>
-<a href="https://projects.invisionapp.com/share/KT4WXOUJR#/screens/115062107 target="_blank"><img src="/assets/img/pageimages/justfixnycpss.jpg" alt="Click for Interactable Prototype"></a>
+<a href="https://projects.invisionapp.com/share/KT4WXOUJR#/screens/115062107" target="_blank"><img src="/assets/img/pageimages/justfixnycpss.jpg" alt="Click for Interactable Prototype"></a>
 </center>
 <p>
 
