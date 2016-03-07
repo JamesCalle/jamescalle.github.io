@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: James Calle
+title: James Calle - UX
 email: JamesCalleUX@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi! I am a User Experience Designer/Researcher with a background in Psychology. I
+  aim to deliver the best user experience with the use of scientific methods and 
+  behaviorial analytical techniques. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jamescalle.github.io" # the base hostname & protocol for your site
 twitter_username: dotFleurr
