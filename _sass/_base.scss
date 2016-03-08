@@ -209,3 +209,83 @@ pre {
         }
     }
 }
+
+
+
+/**
+ * FontAwesome Icons
+ */
+ .fa-envelope-o {
+  color: $grey-color;
+  text-decoration: none;
+
+  &:visited {
+      color: darken($text-color, 15%);
+  }
+
+  &:hover {
+      color: $text-color;
+      text-decoration: none;
+  }
+
+}
+
+.fa-github {
+  color: $grey-color;
+  text-decoration: none;
+
+  &:visited {
+      color: darken(#333333, 15%);
+  }
+
+  &:hover {
+      color: #333333;
+      text-decoration: none;
+  }
+
+}
+
+.fa-behance {
+  color: $grey-color;
+  text-decoration: none;
+
+  &:visited {
+      color: darken(#1769ff, 15%);
+  }
+
+  &:hover {
+      color: #1769ff;
+      text-decoration: none;
+  }
+
+}
+
+.fa-linkedin {
+  color: $grey-color;
+  text-decoration: none;
+
+  &:visited {
+      color: darken(#0077b5, 15%);
+  }
+
+  &:hover {
+      color: #0077b5;
+      text-decoration: none;
+  }
+
+}
+
+.fa-twitter {
+  color: $grey-color;
+  text-decoration: none;
+
+  &:visited {
+      color: darken(#55acee, 15%);
+  }
+
+  &:hover {
+      color: #55acee;
+      text-decoration: none;
+  }
+
+}
