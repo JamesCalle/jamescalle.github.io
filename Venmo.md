@@ -12,11 +12,11 @@ function goBack() {
 </script>
 <body style="font-family:PT Serif;">
 <p>
-<i>In this General Assembly group project, we were assigned and tasked to implement a feature into Venmo. Venmo is an application that allows users to quickly and easily make a transaction with other users for free. Leveraging Venmo’s social media aspect we were tasked to introduce a way for users to send money via their app towards causes they care about — whether it would be a nonprofit that combats hunger or a unique Kickstarter campaign.</i>
+<i>In this General Assembly group project, we were assigned and tasked to implement a feature to Venmo. Venmo is an application that allows users to quickly and easily make a transaction with other users for free. Leveraging Venmo’s social media aspect we were tasked to introduce a way for users to send money via their app towards causes they care about — whether it would be a nonprofit that combats hunger or a unique Kickstarter campaign.</i>
 <p>
 <img src="/assets/img/pagebanner/vpagebanner.png" alt="Venmo">
 <p>
-My group members, Di Lu and Ron Ng, and I have never heard or used Venmo before so the first step was to download the app to our devices and use all the features. From the basics such as sending money to each other to reading through other random user's transactions and comments in the public feed section. After fully exploring and familiarizing ourselves with Venmo we found out that it is technically possible to make a monetary contribution to a cause or charity, it's just not safe. There is nothing to reassure users that their monetary contribution is going to the right space.
+Me and my group members, Di Lu and Ron Ng, have never heard or used Venmo before so the first step was to download the app to our devices and use all the features. From the basics such as sending money to each other to reading through other random user's transactions and comments in the public feed section. After fully exploring and familiarizing ourselves with Venmo we found out that it is technically possible to make a monetary contribution to a cause or charity, it's just not safe. There is nothing to reassure users that their monetary contribution is going to the right place.
 <p>
 We tried looking for other services like Venmo, but there isn't one. The peer to peer, social media, transaction space is currently being dominated by Venmo. But we did explore several other payment services and compared the both to see what makes them tick.
 <p>
@@ -41,7 +41,7 @@ Most Venmo and non-Venmo users told us what they found most important in regards
 <li>One time payment method is preferred. People do wish to make as much monetary contributions as they can but not when it’s out of their control.</li>
 </ul>
 <p>
-There was plenty of information users gave us and keeping every single thing in mind while thinking of how and what to implement to Venmo to satisfy everyone's needs, sounds draining. Instead, we created 3 personas based on our interviewee's responses.
+There was plenty of information users gave us and to keep every single thing in mind while thinking of how and what to implement to satisfy users needs, we created 3 personas based on our interviewee's responses.
 <p>
 <img src="/assets/img/pageimages/vds.jpg" alt="Early Sketches">
 <p>
@@ -53,7 +53,7 @@ AND FINALLY, the user testing commences! Based on our first prototype, people sa
 <li>"Banner is blocking my friend's activities. I rather it has it's own dedicated area instead of blocking my view." - S.</li>
 </i>
 </ul>
-We didn't want to remove the banner completely because less people would seek out a place to donate money. The banner in this iteration was a solid color so to remedy this person's issue we lessened the amount of space the banner takes up.<p>
+We didn't want to remove the banner completely otherwise people wouldn't seek out a place to donate money. The banner in this iteration was a solid color so to remedy this person's issue we lessened the amount of space the banner takes up.<p>
 <ul style="list-style-type:none">
 <i>
 <li>"I would want to know how much money has been donate to this organization. What is the fundraising goal and how many people have donated." - D.</li>
@@ -61,21 +61,21 @@ We didn't want to remove the banner completely because less people would seek ou
 </ul>
 At first we thought simply adding a fundraising goal bar around the organization's page would be sufficient enough. But not all charities want to stop collecting funds so we couldn't include that. This person wanted to see more statistical information but we lacked the space. We held off on adding more information but we did keep this in mind.<p>
 <p>
-In addition to those specific problems, people have also questioned why the newly added "Report" button was taking up a huge portion of the profile page. People didn't like seeing the button so we moved the "Report" function behind the already present 3 dot menu. This gave us just enough space to add a Venmo certification system. Inspired by Twitter's verification system, Venmo certification shows authenticity on the organization's profile page so users feel safe and secure about where their money is being donated to.
+In addition to those specific problems, people have also questioned why the newly added "Report" button was taking up a huge portion of the profile page. People didn't like seeing the button so we moved the "Report" function behind the already present 3 dot menu. This gave us enough space to implement Venmo certification system. Inspired by Twitter's verification system, Venmo certification shows authenticity on the organization's profile page so users feel safe and secure about where their money is being donated to.
 <p>
 We also introduced a trending page, where users can see where people are donating their money towards. But people found this page confusing. They didn't know what was trending and under what basis. So we split the entire trending page to tabs labelled "Crisis" and "Hot Topics" for our next iteration.
 <p>
-Iteration 2 needed some tweaking. The banner displayed when there is an ongoing crisis is not engaging to users. People didn't even know it was a button so they didn't bother attempting to press it. Visual changes were made to the banner to make it look more like a button.
+Iteration 2 needed some tweaking. The banner displayed when there is an ongoing crisis is not engaging to users. People didn't even know it was a button so no one interacted with it. Visual changes were made to the banner to make it look more like a button.
 <p>
-Since our first iteration, people continued questioning why the ability to request money from a charity is available. Venmo does allow you to request money from anyone using the service but it's confusing our testing participants, so we added a button on the profile page labelled "Donate". We didn't want to disturb the current user flow too much so we simply decided to add a Donate button on the profile page for our next iteration.
+Since our first iteration, people continued questioning why the ability to request money from a charity is available. Venmo does allow you to request money from anyone using the service but it's confusing our testing participants, so we added a button on the profile page labelled "Donate". On the "Donate" page, the ability to request money was removed. We didn't want to disturb the current user flow too much so we simply decided to add a Donate button on the profile page for our next iteration.
 <p>
 One user suggested to change up the format of the trending page. Changing the title of the tabs on the trending page from "Crisis" to "Current" so people can see more news and information about their friend's acitivities and "Hot Topics" to "Ongoing" would display all the current ongoing causes or charities.
 <p>
-We also noticed that not a single user at this point interacted or even seemed to notice the notification button at the top right of the page. We took this opportunity to replace it with a search button and moved the notification button into the hamburger menu.  
+We also noticed that not a single user at this point interacted or even seemed to notice the notification button at the top right of the page. We took this opportunity to replace it with a search button and moved the notification button to the hamburger menu.  
 <p>
 <img src="/assets/img/pageimages/vvf.png" alt="Click to view all screens on Behance">
 <p>
-Our final iteration left us with a few things we would've liked to continue further exploring. From the start of this project, we decided to start designing for Android first mainly because 2 out of 3 members of this group were primarily Android users. Throughout all of our iterations a floating action button(FAB) has been present but at iteration 3, it caused a "distraction".
+Our final iteration left us with a few things we would've liked to continue further exploring. From the start of this project, we decided to start designing for Android first mainly because 2 out of 3 members of this group were primarily Android users. Throughout all of our iterations a floating action button(FAB) has been present but at iteration 3, it caused a distraction.
 <ul style="list-style-type:none">
 <i>
 <li>"I wanted to click on the [floating action button] but I saw the [banner CTA] first so I clicked on that first" - C.</li>
