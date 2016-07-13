@@ -92,5 +92,3 @@ The copywrite for the 2 tabs still need to be further explored. Several other us
 <center>
 <a href="https://popapp.in/w/projects/56156de590d2b5ab5ad8555f/preview/56156e07004a79607e947248" target="_blank"><img src="/assets/img/pageimages/venmopss.png" alt="Click for Interactable Prototype"></a>
 </center>
-
-</body>
