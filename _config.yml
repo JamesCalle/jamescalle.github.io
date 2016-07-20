@@ -9,8 +9,7 @@
 title: James Calle
 email: JamesCalleUX@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi! I am a User Experience Designer/Researcher with a background in Psychology. I
-  aim to deliver the best user experience through use of scientific methods.
+  Hi! I'm a User Experience Designer/Researcher with a background in Psychology. Empathizing with users and analyzing data is what helps me deliver the best user experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jamescalle.github.io" # the base hostname & protocol for your site
 twitter_username: dotFleurr
